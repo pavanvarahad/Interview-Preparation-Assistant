@@ -1,3 +1,4 @@
+Sure! Here's the updated README with the link to your blog included:
 
 # Software Engineer Interview Preparation Assistant
 
@@ -10,6 +11,10 @@ The **Interview Preparation Assistant** is a tool designed to help candidates pr
 - **Generate Technical Questions:** Provides a single, precise technical question tailored to a specified topic and difficulty level.
 - **Generate Answers:** Produces a concise and relevant answer to the generated technical question.
 
+## Blog
+
+For a detailed explanation of how this application works, you can read our blog post [https://pavanvarahad.in/llm-interview-preparation-assistant](https://pavanvarahad.in/llm-interview-preparation-assistant).
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or bug fixes, please submit a pull request or open an issue.
@@ -18,3 +23,6 @@ Contributions are welcome! If you have suggestions for improvements or bug fixes
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
+
+Feel free to further customize the content as needed!
