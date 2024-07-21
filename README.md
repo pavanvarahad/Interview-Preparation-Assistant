@@ -1,4 +1,3 @@
-Sure! Here's the updated README with the link to your blog included:
 
 # Software Engineer Interview Preparation Assistant
 
