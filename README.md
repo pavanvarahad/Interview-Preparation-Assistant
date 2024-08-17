@@ -1,5 +1,5 @@
 
-# Software Engineer Interview Preparation Assistant
+#AI Based Software Engineer Interview Preparation Assistant
 
 ## Overview
 
